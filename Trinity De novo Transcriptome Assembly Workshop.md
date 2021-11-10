@@ -1,4 +1,4 @@
-source: https://github.com/trinityrnaseq/RNASeq_Trinity_Tuxedo_Workshop.wiki.git
+source: https://github.com/trinityrnaseq/RNASeq_Trinity_Tuxedo_Workshop/wiki/Trinity-De-novo-Transcriptome-Assembly-Workshop
 # De novo RNA-Seq Assembly and Analysis Using Trinity and EdgeR
 
 The following details the steps involved in:
